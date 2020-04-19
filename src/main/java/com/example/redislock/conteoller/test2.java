@@ -1,0 +1,7 @@
+package com.example.redislock.conteoller;
+
+public class test2 {
+    public static void main(String[] args) {
+
+    }
+}
